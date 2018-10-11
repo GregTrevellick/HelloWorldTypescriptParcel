@@ -28,7 +28,7 @@ A minimum TypeScript app with [Parcel Bundler](https://parceljs.org/).
 [![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldTypescriptParcel&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=HelloWorldTypescriptParcel&metric=vulnerabilities)
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/u3s4x8kx4fo0ejog?svg=true)](https://ci.appveyor.com/project/GregTrevellick/HelloWorldTypescriptParcel)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/HelloWorldTypescriptParcel.svg)](https://ci.appveyor.com/project/GregTrevellick/HelloWorldTypescriptParcel/build/tests)
-[![Azure Build Status](https://gregtrevellick.visualstudio.com/HelloWorldTypescriptParcel/_apis/build/status/HelloWorldTypescriptParcel)](https://gregtrevellick.visualstudio.com/HelloWorldTypescriptParcel/_build/latest?definitionId=11)
+
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)

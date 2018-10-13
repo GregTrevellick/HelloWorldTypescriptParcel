@@ -11,7 +11,9 @@ A minimum TypeScript app with [Parcel Bundler](https://parceljs.org/).
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/HelloWorldTypescriptParcel?branch=master)](https://bettercodehub.com/results/GregTrevellick/HelloWorldTypescriptParcel)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/f519d95563a64063a1d349b8c6252ec0)](https://www.codacy.com/project/gtrevellick/HelloWorldTypescriptParcel/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/HelloWorldTypescriptParcel&amp;utm_campaign=Badge_Grade_Dashboard)
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldTypescriptParcel/badge)](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldTypescriptParcel)
-[![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldTypescriptParcel/report?token=GPYp3gKiHmRM0_By7JNzWkVYFWAoqL5W9FJS1u7oWPg&branch=master)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/HelloWorldTypescriptParcel/branch/master/summary)
+[![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldTypescriptParcel/report?token=GPYp3gKiHmRM0_By7JNzWkVYFWAoqL5W9FJS1u7oWPg)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/HelloWorldTypescriptParcel/branch/master/summary)
+
+
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/HelloWorldTypescriptParcel.svg)](https://github.com/GregTrevellick/HelloWorldTypescriptParcel)
 [![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/HelloWorldTypescriptParcel.svg)](https://github.com/GregTrevellick/HelloWorldTypescriptParcel)
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/HelloWorldTypescriptParcel.svg)](https://github.com/GregTrevellick/HelloWorldTypescriptParcel/issues)

@@ -12,7 +12,8 @@ A minimum TypeScript app with [Parcel Bundler](https://parceljs.org/).
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/f519d95563a64063a1d349b8c6252ec0)](https://www.codacy.com/project/gtrevellick/HelloWorldTypescriptParcel/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/HelloWorldTypescriptParcel&amp;utm_campaign=Badge_Grade_Dashboard)
 [![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-helloworldtypescriptparcel-master)
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldTypescriptParcel/badge)](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldTypescriptParcel)
-[![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldTypescriptParcel/report?token=GPYp3gKiHmRM0_By7JNzWkVYFWAoqL5W9FJS1u7oWPg)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/HelloWorldTypescriptParcel/branch/master/summary)
+[![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/HelloWorldTypescriptParcel/depshield.svg)](https://depshield.github.io)
+[![InspecodeRocro Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldTypescriptParcel/report?token=GPYp3gKiHmRM0_By7JNzWkVYFWAoqL5W9FJS1u7oWPg)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/HelloWorldTypescriptParcel/branch/master/summary)
 
 
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/HelloWorldTypescriptParcel.svg)](https://github.com/GregTrevellick/HelloWorldTypescriptParcel)
@@ -33,7 +34,7 @@ A minimum TypeScript app with [Parcel Bundler](https://parceljs.org/).
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/u3s4x8kx4fo0ejog?svg=true)](https://ci.appveyor.com/project/GregTrevellick/HelloWorldTypescriptParcel)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/HelloWorldTypescriptParcel.svg)](https://ci.appveyor.com/project/GregTrevellick/HelloWorldTypescriptParcel/build/tests)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/HelloWorldTypescriptParcel/_apis/build/status/HelloWorldTypescriptParcel)](https://gregtrevellick.visualstudio.com/HelloWorldTypescriptParcel/_build/latest?definitionId=11)
-[![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldTypescriptParcel/status?token=GPYp3gKiHmRM0_By7JNzWkVYFWAoqL5W9FJS1u7oWPg)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/HelloWorldTypescriptParcel/latest?completed=true)
+[![InspecodeRocro Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldTypescriptParcel/status?token=GPYp3gKiHmRM0_By7JNzWkVYFWAoqL5W9FJS1u7oWPg)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/HelloWorldTypescriptParcel/latest?completed=true)
 [![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)

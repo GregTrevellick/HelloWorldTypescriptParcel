@@ -3,11 +3,8 @@
 A minimum TypeScript app with [Parcel Bundler](https://parceljs.org/).
 
 <!--BadgesSTART-->
-[![Read Me Synchronizer](https://img.shields.io/badge/-powered%20by%20read%20me%20synchronizer-brightgreen.svg)](https://github.com/undefined/ReadMeSynchronizer)
-<!-- Powered by https://github.com/undefined/ReadMeSynchronizer -->
-
-[Subscribe](https://github.com/GregTrevellick/HelloWorldTypescriptParcel/subscription) to receive notificatons.
-
+<!-- Powered by https://github.com/GregTrevellick/ReadMeSynchronizer -->
+[![Read Me Synchronizer](https://img.shields.io/badge/-powered%20by%20ReadMeSynchronizer-brightgreen.svg)](https://github.com/GregTrevellick/ReadMeSynchronizer)
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/HelloWorldTypescriptParcel?branch=master)](https://bettercodehub.com/results/GregTrevellick/HelloWorldTypescriptParcel)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/f519d95563a64063a1d349b8c6252ec0)](https://www.codacy.com/project/gtrevellick/HelloWorldTypescriptParcel/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/HelloWorldTypescriptParcel&amp;utm_campaign=Badge_Grade_Dashboard)
 [![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-helloworldtypescriptparcel-master)
@@ -40,6 +37,9 @@ A minimum TypeScript app with [Parcel Bundler](https://parceljs.org/).
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
+
+[Subscribe](https://github.com/GregTrevellick/HelloWorldTypescriptParcel/subscription) to receive notificatons.
+
 <!--BadgesEND-->
 
 

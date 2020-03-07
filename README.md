@@ -9,8 +9,6 @@ A minimum TypeScript app with [Parcel Bundler](https://parceljs.org/).
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/f519d95563a64063a1d349b8c6252ec0)](https://www.codacy.com/project/gtrevellick/HelloWorldTypescriptParcel/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/HelloWorldTypescriptParcel&amp;utm_campaign=Badge_Grade_Dashboard)
 [![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-helloworldtypescriptparcel-master)
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldTypescriptParcel/badge)](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldTypescriptParcel)
-
-
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/HelloWorldTypescriptParcel.svg)](https://github.com/GregTrevellick/HelloWorldTypescriptParcel)
 [![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/HelloWorldTypescriptParcel.svg)](https://github.com/GregTrevellick/HelloWorldTypescriptParcel)
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/HelloWorldTypescriptParcel.svg)](https://github.com/GregTrevellick/HelloWorldTypescriptParcel/issues)
@@ -35,7 +33,6 @@ A minimum TypeScript app with [Parcel Bundler](https://parceljs.org/).
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
-
 [Subscribe](https://github.com/GregTrevellick/HelloWorldTypescriptParcel/subscription) to receive notificatons.
 
 <!--BadgesEND-->

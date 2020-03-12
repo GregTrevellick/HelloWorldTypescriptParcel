@@ -13,7 +13,6 @@ A minimum TypeScript app with [Parcel Bundler](https://parceljs.org/).
 <!-- no md -->
 <!-- no md -->
 <!-- no md -->
-<!-- no md -->
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/HelloWorldTypescriptParcel.svg)](https://github.com/GregTrevellick/HelloWorldTypescriptParcel)
 [![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/HelloWorldTypescriptParcel.svg)](https://github.com/GregTrevellick/HelloWorldTypescriptParcel)
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/HelloWorldTypescriptParcel.svg)](https://github.com/GregTrevellick/HelloWorldTypescriptParcel/issues)
@@ -39,6 +38,7 @@ A minimum TypeScript app with [Parcel Bundler](https://parceljs.org/).
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
 [![Subscribe](https://img.shields.io/badge/subscribe%20to%20receive%20notificatons-grey.svg)](https://github.com/GregTrevellick/HelloWorldTypescriptParcel/subscription)
+<!-- no md -->
 
 <!--BadgesEND-->
 
